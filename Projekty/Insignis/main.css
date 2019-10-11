@@ -1,0 +1,12 @@
+.navbar{
+  background: rgb(0,34,249);
+  background: linear-gradient(0deg, rgba(0,34,249,1) 0%, rgba(110,138,255,1) 100%);
+
+}
+.baner{
+  background-image: url("img/calculator.jpeg");
+  height: 200px;
+}
+.baner img{
+  height: auto;
+}
